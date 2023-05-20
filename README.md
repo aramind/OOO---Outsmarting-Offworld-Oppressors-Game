@@ -11,7 +11,7 @@
   <p align="center">
     A browser game created using vanilla JS, HTML, and CSS.
     <br />
-    <a href="https://rmiranda-dev-portfolio.onrender.com/" target="_blank" >OOO - Outsmarting Offworld Oppressors</a>
+    <a href="https://aramind.github.io/OOO---Outsmarting-Offworld-Oppressors-Game/" target="_blank" >OOO - Outsmarting Offworld Oppressors</a>
   </p>
 </div>
 
